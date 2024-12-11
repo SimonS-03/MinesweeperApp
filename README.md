@@ -1,6 +1,6 @@
 # MineweeperApp
 
- Minesweeper application I developed as part of a programming course at KTH. It has costumizable grid sizes for different difficulties and window sizes, a scoreboard functionality and all the functionality one would expect of a minesweeper game.
+ Developed as part of the course DD1331. It has costumizable grid sizes for different difficulties and window sizes, a scoreboard functionality and all the functionality one would expect of a minesweeper game.
 
 <figure>
     <img src="GameView.png"
